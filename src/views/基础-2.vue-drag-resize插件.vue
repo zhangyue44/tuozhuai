@@ -39,7 +39,6 @@
  * 22. @resizestop="onResizstop"  每当组件停止调整大小时调用
  * 23. @dragging="onDragging"  每当拖动组件时调用
  * 24. @dragstop="onDragstop"  每当组件停止拖动时调用
- * 25. 
 */
 export default {
   name: 'app',

@@ -33,10 +33,6 @@ export default {
   components: {
     draggable
   },
-  mounted() {
-    var el = document.getElementById('items');
-    var sortable = Sortable.create(el);
-  },
   methods: {
     
 
