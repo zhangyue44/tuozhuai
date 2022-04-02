@@ -39,6 +39,8 @@
  * 22. @resizestop="onResizstop"  每当组件停止调整大小时调用
  * 23. @dragging="onDragging"  每当拖动组件时调用
  * 24. @dragstop="onDragstop"  每当组件停止拖动时调用
+ * 25. snapToGrid  确定组件是否应在预定义的步骤中移动和调整大小,就是可以绘制网格了，网格吸附效果
+ * 26. gridX gridY  :gridX="50" :gridY="50"
 */
 export default {
   name: 'app',
