@@ -1,8 +1,13 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">手撸 </router-link>
+      <router-link to="/SortableJS">| SortableJS </router-link>
+      <router-link to="/vuedraggable">| vuedraggable </router-link>
+      <router-link to="/vue-drag-resize">| vue-drag-resize </router-link>
+      <router-link to="/vue-draggable-resizable">| vue-draggable-resizable</router-link>
+      <router-link to="/vue-draggable-resizable-gorkys">| vue-draggable-resizable-gorkys</router-link>
+      <router-link to="/vue-grid-layout">| vue-grid-layout</router-link>
     </div>
     <router-view/>
   </div>
