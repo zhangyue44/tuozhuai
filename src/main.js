@@ -8,6 +8,8 @@ import "vue-draggable-resizable/dist/VueDraggableResizable.css";
 
 console.log("ssss");
 
+console.log("dddd");
+
 Vue.config.productionTip = false;
 Vue.component("vue-drag-resize", VueDragResize);
 Vue.component("vue-draggable-resizable", VueDraggableResizable);
