@@ -2,6 +2,7 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 console.log("s");
+console.log("d");
 import store from "./store";
 import VueDragResize from "vue-drag-resize";
 import VueDraggableResizable from "vue-draggable-resizable";
